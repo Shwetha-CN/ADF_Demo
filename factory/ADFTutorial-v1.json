@@ -1,0 +1,9 @@
+{
+	"name": "ADFTutorial-v1",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "cd61ec1b-297e-4b70-9023-c3197b9dbd24",
+		"tenantId": "bf5ff30d-f7b4-4b7e-af99-7521e76a0488"
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"name": "mysqlselfhost",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
